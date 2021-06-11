@@ -1,4 +1,3 @@
-
 ## Hack
 
 ```javascript
